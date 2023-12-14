@@ -1,0 +1,11 @@
+.descripcion{
+    max-width: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.ctn-datos{
+    max-width: 70%;
+    width: 70%;
+    overflow: hidden;
+}

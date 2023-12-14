@@ -1,0 +1,7 @@
+.ctn-tareas{
+    max-height: 45vh;
+    overflow-y: auto;
+    overflow-x: none;
+    width: 100%;
+    max-width: 100%;
+}
